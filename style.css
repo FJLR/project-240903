@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: #6C3BAA;
 }
 
 h1 {
@@ -8,6 +8,8 @@ h1 {
 }
 
 p {
-  font-family: verdana;
+  font-family: monospace;
   font-size: 25px;
+  text-align: center;
+  color: red;
 }
