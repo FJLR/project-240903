@@ -21,9 +21,15 @@ in the html file and css file and create ''master branch'',
  ''review'' of my features on the feature branch like the real world - 240912</p>
 
 
+
 <p>here is a text on the develop100 branch using nano cmd - 240912</p>
 
 <p>here is a text2 on the develop100 branch using nano cmd - 240912</p>
+
+
+
+
+
 
 
 <a href="https://www.mercedes-benz.ca">MB AMG</a>
